@@ -1,0 +1,8 @@
+{
+  "name": "Vlog It",
+  "description": "A social daily vlogging reminder app for friends using AI to generate creative daily prompts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
